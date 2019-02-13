@@ -1,0 +1,5 @@
+baseURL = "http://ggyb.me/"
+languageCode = "en-us"
+title = "JonaLibertのBlog"
+theme = "base16"
+pygmentsuseclasses = true
