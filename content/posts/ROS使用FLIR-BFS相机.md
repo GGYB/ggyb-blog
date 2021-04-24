@@ -3,7 +3,7 @@ title: "ROS使用FLIR BFS相机"
 date: 2021-04-24T12:06:22+08:00
 categories: [ "ROS"]
 tags: [ "相机", "驱动"]
-draft: true
+draft: false
 ---
 
 
