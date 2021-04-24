@@ -5,4 +5,3 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:GGYB/GGYB.github.io.git
-	branch = master
